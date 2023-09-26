@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\ProjetosC#\\myfinance-web-netcore\\myfinance-web-netcore.csproj": {}
+    "D:\\ProjetosC#\\myfinance-web-netcore\\myfinance-web-netcore.csproj": {}
   },
   "projects": {
-    "d:\\ProjetosC#\\myfinance-web-netcore\\myfinance-web-netcore.csproj": {
+    "D:\\ProjetosC#\\myfinance-web-netcore\\myfinance-web-netcore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\ProjetosC#\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
+        "projectUniqueName": "D:\\ProjetosC#\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
         "projectName": "myfinance-web-netcore",
-        "projectPath": "d:\\ProjetosC#\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
+        "projectPath": "D:\\ProjetosC#\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
         "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-        "outputPath": "d:\\ProjetosC#\\myfinance-web-netcore\\obj\\",
+        "outputPath": "D:\\ProjetosC#\\myfinance-web-netcore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config"
