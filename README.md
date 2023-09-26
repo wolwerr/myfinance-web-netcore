@@ -1,0 +1,1 @@
+Aplicação criada em C# e .net 7.0
