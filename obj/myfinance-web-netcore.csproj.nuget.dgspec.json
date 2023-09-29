@@ -29,11 +29,11 @@
               "D:\\ProjetosC#\\2-) myfinance-web-dotnet-service\\myfinance-web-dotnet-service.csproj": {
                 "projectPath": "D:\\ProjetosC#\\2-) myfinance-web-dotnet-service\\myfinance-web-dotnet-service.csproj"
               },
-              "d:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj": {
-                "projectPath": "d:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj"
+              "D:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj": {
+                "projectPath": "D:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj"
               },
-              "d:\\ProjetosC#\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj": {
-                "projectPath": "d:\\ProjetosC#\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj"
+              "D:\\ProjetosC#\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj": {
+                "projectPath": "D:\\ProjetosC#\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj"
               }
             }
           }
@@ -91,7 +91,14 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj": {
+                "projectPath": "D:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj"
+              },
+              "D:\\ProjetosC#\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj": {
+                "projectPath": "D:\\ProjetosC#\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -123,14 +130,14 @@
         }
       }
     },
-    "d:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj": {
+    "D:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj",
+        "projectUniqueName": "D:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj",
         "projectName": "myfinance-web-dotnet-domain",
-        "projectPath": "d:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj",
+        "projectPath": "D:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj",
         "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-        "outputPath": "d:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\obj\\",
+        "outputPath": "D:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -176,14 +183,14 @@
         }
       }
     },
-    "d:\\ProjetosC#\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj": {
+    "D:\\ProjetosC#\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\ProjetosC#\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj",
+        "projectUniqueName": "D:\\ProjetosC#\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj",
         "projectName": "myfinance-web-dotnet-infra",
-        "projectPath": "d:\\ProjetosC#\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj",
+        "projectPath": "D:\\ProjetosC#\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj",
         "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-        "outputPath": "d:\\ProjetosC#\\4-) myfinance-web-dotnet-infra\\obj\\",
+        "outputPath": "D:\\ProjetosC#\\4-) myfinance-web-dotnet-infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -197,7 +204,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj": {
+                "projectPath": "D:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -209,6 +220,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
