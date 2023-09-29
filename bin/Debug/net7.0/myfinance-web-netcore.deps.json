@@ -7,14 +7,49 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "myfinance-web-netcore/1.0.0": {
+        "dependencies": {
+          "myfinance-web-dotnet-domain": "1.0.0",
+          "myfinance-web-dotnet-infra": "1.0.0",
+          "myfinance-web-dotnet-service": "1.0.0"
+        },
         "runtime": {
           "myfinance-web-netcore.dll": {}
+        }
+      },
+      "myfinance-web-dotnet-domain/1.0.0": {
+        "runtime": {
+          "myfinance-web-dotnet-domain.dll": {}
+        }
+      },
+      "myfinance-web-dotnet-infra/1.0.0": {
+        "runtime": {
+          "myfinance-web-dotnet-infra.dll": {}
+        }
+      },
+      "myfinance-web-dotnet-service/1.0.0": {
+        "runtime": {
+          "myfinance-web-dotnet-service.dll": {}
         }
       }
     }
   },
   "libraries": {
     "myfinance-web-netcore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "myfinance-web-dotnet-domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "myfinance-web-dotnet-infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "myfinance-web-dotnet-service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

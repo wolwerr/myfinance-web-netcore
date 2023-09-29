@@ -1,17 +1,83 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProjetosC#\\myfinance-web-netcore\\myfinance-web-netcore.csproj": {}
+    "D:\\ProjetosC#\\1-) myfinance-web-dotnet\\myfinance-web-netcore.csproj": {}
   },
   "projects": {
-    "D:\\ProjetosC#\\myfinance-web-netcore\\myfinance-web-netcore.csproj": {
+    "D:\\ProjetosC#\\1-) myfinance-web-dotnet\\myfinance-web-netcore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjetosC#\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
+        "projectUniqueName": "D:\\ProjetosC#\\1-) myfinance-web-dotnet\\myfinance-web-netcore.csproj",
         "projectName": "myfinance-web-netcore",
-        "projectPath": "D:\\ProjetosC#\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
+        "projectPath": "D:\\ProjetosC#\\1-) myfinance-web-dotnet\\myfinance-web-netcore.csproj",
         "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjetosC#\\myfinance-web-netcore\\obj\\",
+        "outputPath": "D:\\ProjetosC#\\1-) myfinance-web-dotnet\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\ProjetosC#\\2-) myfinance-web-dotnet-service\\myfinance-web-dotnet-service.csproj": {
+                "projectPath": "D:\\ProjetosC#\\2-) myfinance-web-dotnet-service\\myfinance-web-dotnet-service.csproj"
+              },
+              "d:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj": {
+                "projectPath": "d:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj"
+              },
+              "d:\\ProjetosC#\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj": {
+                "projectPath": "d:\\ProjetosC#\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ProjetosC#\\2-) myfinance-web-dotnet-service\\myfinance-web-dotnet-service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ProjetosC#\\2-) myfinance-web-dotnet-service\\myfinance-web-dotnet-service.csproj",
+        "projectName": "myfinance-web-dotnet-service",
+        "projectPath": "D:\\ProjetosC#\\2-) myfinance-web-dotnet-service\\myfinance-web-dotnet-service.csproj",
+        "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
+        "outputPath": "D:\\ProjetosC#\\2-) myfinance-web-dotnet-service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -49,9 +115,112 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj",
+        "projectName": "myfinance-web-dotnet-domain",
+        "projectPath": "d:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj",
+        "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
+        "outputPath": "d:\\ProjetosC#\\3-) myfinance-web-dotnet-domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\ProjetosC#\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\ProjetosC#\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj",
+        "projectName": "myfinance-web-dotnet-infra",
+        "projectPath": "d:\\ProjetosC#\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj",
+        "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
+        "outputPath": "d:\\ProjetosC#\\4-) myfinance-web-dotnet-infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
