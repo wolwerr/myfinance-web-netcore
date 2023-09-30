@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\3-) myfinance-web-dotnet-domain\myfinance-web-dotnet-domain.csproj" />
+    <ProjectReference Include="..\3-)%20myfinance-web-dotnet-domain\myfinance-web-dotnet-domain.csproj"/>
   </ItemGroup>
 
   <ItemGroup>

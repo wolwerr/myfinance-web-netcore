@@ -12,7 +12,7 @@ namespace myfinance_web_dotnet_service
         {
             _dbContext = dbContext;
         }
-        void Cadastrar(Transacao Entidade)
+        public void Cadastrar(Transacao Entidade)
         {
             var dbSet = _dbContext.Transacao;
 
@@ -27,7 +27,7 @@ namespace myfinance_web_dotnet_service
             _dbContext.SaveChanges();
         }
 
-        void Excluir(int Id)
+        public void Excluir(int Id)
         {
             var Transacao = new Transacao() { Id = Id };
             _dbContext.Transacao.Attach(Transacao);
@@ -35,12 +35,12 @@ namespace myfinance_web_dotnet_service
             _dbContext.SaveChanges();
 
         }
-        List<Transacao> ListarRegistro()
+        public List<Transacao> ListarRegistro()
         {
             var dbSet = _dbContext.Transacao;
             return dbSet.ToList();
         }
-        Transacao RetornarRegistro(int Id)
+        public Transacao RetornarRegistro(int Id)
         {
             return _dbContext.Transacao.Where(x => x.Id == Id).First();
         }

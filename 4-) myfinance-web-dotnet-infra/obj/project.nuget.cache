@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6XuUCKa2dnYdkc8MqitY3Lgd4k9VZMPwxUz7CkEmjh0q8aT/xRk0vLaSBsW8f0x6MugLa+EKLRMuBHnEjnTA+A==",
+  "dgSpecHash": "uT9KxuEyC2UIORb1MJudxJqAuw4M/vE4fh2Mk80AZUVIILO65zUvTXl/gsZqqYjtyI0JfJPwpwhNk7NT5xzHKQ==",
   "success": true,
-  "projectFilePath": "d:\\myFinance\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj",
+  "projectFilePath": "D:\\myFinance\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ricar\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
