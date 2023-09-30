@@ -24070,6 +24070,16 @@
       "FilePath": "d:\\myFinance\\1-) myfinance-web-dotnet\\Views\\PlanoConta\\Cadastrar.cshtml",
       "TargetPath": "Views\\PlanoConta\\Cadastrar.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\myFinance\\1-) myfinance-web-dotnet\\Views\\Transacao\\Cadastrar.cshtml",
+      "TargetPath": "Views\\Transacao\\Cadastrar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\myFinance\\1-) myfinance-web-dotnet\\Views\\Transacao\\Index.cshtml",
+      "TargetPath": "Views\\Transacao\\Index.cshtml",
+      "FileKind": "mvc"
     }
   ]
 }

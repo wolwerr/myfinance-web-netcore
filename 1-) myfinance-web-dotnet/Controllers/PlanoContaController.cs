@@ -47,14 +47,7 @@ namespace myfinance_web_netcore.Controllers
 
             return View();
         }
-
-        // [HttpGet]
-        // [Route("Cadastrar")]
-        // public IActionResult Cadastrar()
-        // {
-        //     return View();
-        // }   
-
+        
         [HttpGet]
         [Route("Cadastrar")]
         [Route("Cadastrar/{Id}")]
