@@ -1,0 +1,11 @@
+D:\ProjetosC#\3-) myfinance-web-dotnet-domain\bin\Debug\net7.0\myfinance-web-dotnet-domain.deps.json
+D:\ProjetosC#\3-) myfinance-web-dotnet-domain\bin\Debug\net7.0\myfinance-web-dotnet-domain.dll
+D:\ProjetosC#\3-) myfinance-web-dotnet-domain\bin\Debug\net7.0\myfinance-web-dotnet-domain.pdb
+D:\ProjetosC#\3-) myfinance-web-dotnet-domain\obj\Debug\net7.0\myfinance-web-dotnet-domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\3-) myfinance-web-dotnet-domain\obj\Debug\net7.0\myfinance-web-dotnet-domain.AssemblyInfoInputs.cache
+D:\ProjetosC#\3-) myfinance-web-dotnet-domain\obj\Debug\net7.0\myfinance-web-dotnet-domain.AssemblyInfo.cs
+D:\ProjetosC#\3-) myfinance-web-dotnet-domain\obj\Debug\net7.0\myfinance-web-dotnet-domain.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\3-) myfinance-web-dotnet-domain\obj\Debug\net7.0\myfinance-web-dotnet-domain.dll
+D:\ProjetosC#\3-) myfinance-web-dotnet-domain\obj\Debug\net7.0\refint\myfinance-web-dotnet-domain.dll
+D:\ProjetosC#\3-) myfinance-web-dotnet-domain\obj\Debug\net7.0\myfinance-web-dotnet-domain.pdb
+D:\ProjetosC#\3-) myfinance-web-dotnet-domain\obj\Debug\net7.0\ref\myfinance-web-dotnet-domain.dll
