@@ -2679,11 +2679,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\myFinance\\1-) myfinance-web-dotnet\\myfinance-web-netcore.csproj",
+      "projectUniqueName": "D:\\myFinance\\1-) myfinance-web-dotnet\\myfinance-web-netcore.csproj",
       "projectName": "myfinance-web-netcore",
-      "projectPath": "d:\\myFinance\\1-) myfinance-web-dotnet\\myfinance-web-netcore.csproj",
+      "projectPath": "D:\\myFinance\\1-) myfinance-web-dotnet\\myfinance-web-netcore.csproj",
       "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-      "outputPath": "d:\\myFinance\\1-) myfinance-web-dotnet\\obj\\",
+      "outputPath": "D:\\myFinance\\1-) myfinance-web-dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2698,8 +2698,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "d:\\myFinance\\2-) myfinance-web-dotnet-service\\myfinance-web-dotnet-service.csproj": {
-              "projectPath": "d:\\myFinance\\2-) myfinance-web-dotnet-service\\myfinance-web-dotnet-service.csproj"
+            "D:\\myFinance\\2-) myfinance-web-dotnet-service\\myfinance-web-dotnet-service.csproj": {
+              "projectPath": "D:\\myFinance\\2-) myfinance-web-dotnet-service\\myfinance-web-dotnet-service.csproj"
             },
             "D:\\myFinance\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj": {
               "projectPath": "D:\\myFinance\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj"

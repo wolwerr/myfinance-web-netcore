@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\myFinance\\2-) myfinance-web-dotnet-service\\myfinance-web-dotnet-service.csproj": {}
+    "D:\\myFinance\\2-) myfinance-web-dotnet-service\\myfinance-web-dotnet-service.csproj": {}
   },
   "projects": {
-    "d:\\myFinance\\2-) myfinance-web-dotnet-service\\myfinance-web-dotnet-service.csproj": {
+    "D:\\myFinance\\2-) myfinance-web-dotnet-service\\myfinance-web-dotnet-service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\myFinance\\2-) myfinance-web-dotnet-service\\myfinance-web-dotnet-service.csproj",
+        "projectUniqueName": "D:\\myFinance\\2-) myfinance-web-dotnet-service\\myfinance-web-dotnet-service.csproj",
         "projectName": "myfinance-web-dotnet-service",
-        "projectPath": "d:\\myFinance\\2-) myfinance-web-dotnet-service\\myfinance-web-dotnet-service.csproj",
+        "projectPath": "D:\\myFinance\\2-) myfinance-web-dotnet-service\\myfinance-web-dotnet-service.csproj",
         "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-        "outputPath": "d:\\myFinance\\2-) myfinance-web-dotnet-service\\obj\\",
+        "outputPath": "D:\\myFinance\\2-) myfinance-web-dotnet-service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config"

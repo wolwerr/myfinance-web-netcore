@@ -24065,6 +24065,11 @@
       "FilePath": "d:\\myFinance\\1-) myfinance-web-dotnet\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\myFinance\\1-) myfinance-web-dotnet\\Views\\PlanoConta\\Cadastrar.cshtml",
+      "TargetPath": "Views\\PlanoConta\\Cadastrar.cshtml",
+      "FileKind": "mvc"
     }
   ]
 }
