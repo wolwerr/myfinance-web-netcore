@@ -37,7 +37,7 @@ namespace myfinance_web_netcore.Controllers
                     Historico = item.Historico,
                     Data = item.Data,
                     Valor = item.Valor,
-                    Tipo = item.PlanoConta.Tipo,
+                    //Tipo = item.PlanoConta.Tipo,
                     PlanoContaId = item.PlanoContaId                 
                 };
 
