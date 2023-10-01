@@ -9,11 +9,11 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = myfinance_web_netcore
 build_property.RootNamespace = myfinance_web_netcore
-build_property.ProjectDir = d:\myFinance\1-) myfinance-web-dotnet\
+build_property.ProjectDir = D:\myFinance\1-) myfinance-web-dotnet\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\myFinance\1-) myfinance-web-dotnet
+build_property.MSBuildProjectDirectory = D:\myFinance\1-) myfinance-web-dotnet
 build_property._RazorSourceGeneratorDebug = 
 
 [D:/myFinance/1-) myfinance-web-dotnet/Views/Home/Index.cshtml]

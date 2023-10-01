@@ -4,14 +4,14 @@
     "D:\\myFinance\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj": {}
   },
   "projects": {
-    "d:\\myFinance\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj": {
+    "D:\\myFinance\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\myFinance\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj",
+        "projectUniqueName": "D:\\myFinance\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj",
         "projectName": "myfinance-web-dotnet-domain",
-        "projectPath": "d:\\myFinance\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj",
+        "projectPath": "D:\\myFinance\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj",
         "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-        "outputPath": "d:\\myFinance\\3-) myfinance-web-dotnet-domain\\obj\\",
+        "outputPath": "D:\\myFinance\\3-) myfinance-web-dotnet-domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -79,8 +79,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "d:\\myFinance\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj": {
-                "projectPath": "d:\\myFinance\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj"
+              "D:\\myFinance\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj": {
+                "projectPath": "D:\\myFinance\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj"
               }
             }
           }
