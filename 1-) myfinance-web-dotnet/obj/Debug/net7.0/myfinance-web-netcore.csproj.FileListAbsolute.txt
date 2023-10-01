@@ -256,3 +256,4 @@ D:\myFinance\1-) myfinance-web-dotnet\obj\Debug\net7.0\scopedcss\projectbundle\m
 d:\myFinance\1-) myfinance-web-dotnet\obj\Debug\net7.0\myfinance-web-netcore.csproj.CopyComplete
 d:\myFinance\1-) myfinance-web-dotnet\obj\Debug\net7.0\myfinance-web-netcore.genruntimeconfig.cache
 d:\myFinance\1-) myfinance-web-dotnet\obj\Debug\net7.0\ref\myfinance-web-netcore.dll
+D:\myFinance\1-) myfinance-web-dotnet\bin\Debug\net7.0\appsettings.Production.json

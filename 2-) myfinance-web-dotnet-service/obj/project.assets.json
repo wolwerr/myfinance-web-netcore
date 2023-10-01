@@ -2678,8 +2678,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\myFinance\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj": {
-              "projectPath": "D:\\myFinance\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj"
+            "d:\\myFinance\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj": {
+              "projectPath": "d:\\myFinance\\3-) myfinance-web-dotnet-domain\\myfinance-web-dotnet-domain.csproj"
             },
             "D:\\myFinance\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj": {
               "projectPath": "D:\\myFinance\\4-) myfinance-web-dotnet-infra\\myfinance-web-dotnet-infra.csproj"
